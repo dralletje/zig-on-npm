@@ -1,0 +1,16 @@
+{
+  "name": "@zig-on-npm/linux-32",
+  "private": false,
+  "version": "0.10.0-rc.0",
+  "description": "The Linux 32-bit binary for ZIG.",
+  "preferUnplugged": false,
+  "engines": {
+    "node": ">=12"
+  },
+  "os": [
+    "linux"
+  ],
+  "cpu": [
+    "ia32"
+  ]
+}
